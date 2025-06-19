@@ -1,0 +1,33 @@
+h1{
+    color :blue;
+    text-align: center;
+    font-family:cursive;
+}
+h2{
+    color:red;
+    text-align: left;
+    font-family:alaskan;
+    letter-spacing: 1px;
+}
+table {
+    border: 3px solid blueviolet;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid blueviolet;
+    padding: 8px;
+}
+.name{
+    text-align: center;
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    border : 5px solid blueviolet;
+    display: inline-block;
+}
